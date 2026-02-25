@@ -6,7 +6,7 @@ Une page d'accueil premium et cinématique pour une agence fictive de voyage dan
 
 Chronos Voyages est une page d'accueil thématisée sombre et visuellement immersive qui invite les utilisateurs à explorer trois destinations emblématiques à travers le temps : **Paris 1889**, l'**Ère Crétacée** et **Florence 1504**. Le site combine des effets de glassmorphism, des accents dorés, une typographie serif audacieuse et des animations interactives pour offrir une expérience utilisateur haut de gamme et cinématique.
 
-**Lien du site :** [https://v0-luxury-time-travel-page-uqblj4zz8.vercel.app/#](https://v0-luxury-time-travel-page-uqblj4zz8.vercel.app/#)
+**Lien du site :** https://v0-luxury-time-travel-page.vercel.app
 
 ## Fonctionnalités Principales
 
@@ -67,7 +67,7 @@ pnpm install
 ```bash
 pnpm dev
 ```
-L'application sera disponible sur `http://localhost:3000`.
+L'application sera disponible sur `https://v0-luxury-time-travel-page.vercel.app`.
 
 ### Construction
 ```bash
